@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace EntrustFunctionalTest
 {
-    public class BaseTest
+    public abstract class BaseTest
     {
 
         public Config CF = new Config();
