@@ -6,9 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Reflection;
-using WatiN.Core;
-using WatiN.Core.Native.InternetExplorer;
-using WatiN.Core.Native.Windows;
+
 using NUnit.Framework;
 using System.Threading;
 using System.Xml;
